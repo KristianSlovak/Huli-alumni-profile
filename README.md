@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/kristi%C3%A1n-slov%C3%A1k-58870124a/
 Email: slovak.kristian1@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: 
+Weather App: https://github.com/KristianSlovak/weatherApp 
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 

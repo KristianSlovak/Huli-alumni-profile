@@ -10,7 +10,8 @@ Email: slovak.kristian1@gmail.com
 Codewars: https://www.codewars.com/users/KristianSlovak
 
 ## Coding projects
-Weather App: https://github.com/KristianSlovak/weatherApp 
+[Weather App](https://weather-app-nu-steel.vercel.app/): https://github.com/KristianSlovak/weatherApp 
+[Personal CV page](https://kristianslovak.github.io/Personalized-CV/): https://github.com/KristianSlovak/Personalized-CV
 
 
 
